@@ -25,6 +25,11 @@ body {
 
 #img-div>img {
     width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #img-div {
@@ -60,7 +65,7 @@ body {
 }
 
 #tribute-link {
-    font-size: 1000px;
+    font-size: 15px;
     text-align: center;
     text-decoration: bold;
     font-weight: bold;
