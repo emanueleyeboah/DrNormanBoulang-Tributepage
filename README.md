@@ -8,3 +8,4 @@ https://emanueleyeboah.github.io/DrNormanBoulang-Tributepage/
 
 
 
+NB: Not yet responsive
