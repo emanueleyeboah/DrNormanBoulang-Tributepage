@@ -1,11 +1,8 @@
-# DrNormanBoulang-Tributepage
+DrNormanBoulang-Tributepage
 
-This is a freecode camp responsive web design project
+This is a complete  graded tribute page project given by Freecode camp under the responsive certificate program.
 
-Check out the Tribute page for Dr. Norman Boulang on the link below:
+Click the link below to check the project:
 
 https://emanueleyeboah.github.io/DrNormanBoulang-Tributepage/
 
-
-
-NB: Not yet responsive
